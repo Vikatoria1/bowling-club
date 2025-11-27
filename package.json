@@ -1,0 +1,13 @@
+{
+  "name": "bowling-club",
+  "version": "1.0.0",
+  "description": "Bowling Club Website with auto-reload",
+  "scripts": {
+    "dev": "cd server && npm run dev",
+    "start": "cd server && npm start",
+    "install-all": "cd server && npm install"
+  },
+  "keywords": ["bowling", "website"],
+  "author": "Your Name",
+  "license": "MIT"
+}
